@@ -1,0 +1,9 @@
+{
+    "smtp_server": "smtp.gmail.com",
+    "smtp_port": 587,
+    "email": "",
+    "password": "",
+    "recipients": ["admin@school.edu", "counselor@school.edu"],
+    "enable_email": false,
+    "enable_console": true
+}
